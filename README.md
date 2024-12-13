@@ -40,3 +40,36 @@ You should add two methods to SleeperSofa: `put_on_sheets` and `remove_sheets`.
 Modify the `convert` method on sleeper sofa so that the sofa can only be folded back in if there are currently no sheets on the sofa.
 
 Sleeper sofa history source: https://science.howstuffworks.com/innovation/everyday-innovations/who-invented-the-sleeper-sofa.htm
+
+## Notes for the Interviewer
+
+### Delivery Notes
+
+#### THIS QUESTION IS MEANT TO BE DONE ONE WAVE AT A TIME!
+
+- Please only explain the first wave to your interviewee first. Do not discuss the second wave or have them begin implementation on it until they have the first wave fully working. Progress in this fashion for each wave.
+
+#### THE TESTS ARE HELPFUL!
+
+- Encourage your interviewee to closely look at the tests before they begin implementation.
+
+
+### Clarifying Questions
+
+#### Q: How should I handle invalid input? 
+A: You can assume the input will be valid.
+
+#### Q: Can I modify the Couch class?
+A: No.
+
+#### Q: Should the length/width be ints or floats?
+A: Either should work for the given test cases.
+
+#### Q: Is it OK to lie on my couch all day?
+A: Yes, if that's what's best for your well-being at the time. Live your truth 💜
+
+### Hints
+
+- Make sure your candidate's classes aren't accidentally indented and inside the Couch class! The auto-indenting Replit does makes it easy to make this mistake. If you see your candidate do this, you can immediately let them know.
+
+- If your candidate is struggling to form an algorithm, encourage them to explain how they would do it by hand. Afterwards help them to see what data structures might be useful.
