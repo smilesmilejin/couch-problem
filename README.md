@@ -70,6 +70,6 @@ A: Yes, if that's what's best for your well-being at the time. Live your truth ð
 
 ### Hints
 
-- Make sure your candidate's classes aren't accidentally indented and inside the Couch class! The auto-indenting Replit does makes it easy to make this mistake. If you see your candidate do this, you can immediately let them know.
+- Make sure your candidate's classes aren't accidentally indented and inside the Couch class! If you see your candidate do this, you can immediately let them know.
 
 - If your candidate is struggling to form an algorithm, encourage them to explain how they would do it by hand. Afterwards help them to see what data structures might be useful.
